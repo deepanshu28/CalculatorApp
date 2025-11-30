@@ -63,11 +63,12 @@
 					<!-- Only update NVD when needed -->
 					<autoUpdate>true</autoUpdate>
 					<!-- Optional: Use your NVD API key to speed up updates -->
-					<cveApiKey>YOUR_NVD_API_KEY_HERE</cveApiKey>
+					<cveApiKey>b1bba215-5a48-41a4-923a-3ce8022c3067</cveApiKey>
 				</configuration>
 			</plugin>
 		</plugins>
 	</build>
 </project>
+
 
 
